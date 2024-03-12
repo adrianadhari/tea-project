@@ -1,5 +1,5 @@
 {
-  "name": "tea-next",
+  "name": "tea-next-project",
   "version": "1.1.4",
   "scripts": {
     "dev": "next dev",
